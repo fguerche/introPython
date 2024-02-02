@@ -1,1 +1,19 @@
+# Programa que pregunta dos números a l'usuari i calcula la seva suma.
+num1 = input("Intrdueix un numero:")
+num2 = input("Intrdueix un numero:")
+suma = int(num1) + int(num2)
+ print("El resultat es:", suma)
+
+ 
+# Programa que pregunta un número i retorna el seu quadrat.
+num = input("Intrdueix un numero:")
+quadrat = int(num)**2
+
+# Programa que pregunta el nom a l'usuari i retorna el text: "Hola X". On X és el nom de l>
+nom = input("Introdueix el teu nom:") 
+print("Hola ", nom
+
+# Programa que demana un pes en kg a l'usuari i retorna el mateix pes convertit en lliures>
+
+
 
